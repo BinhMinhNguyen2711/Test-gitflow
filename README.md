@@ -6,25 +6,25 @@
 
 ## Tính năng chính
 
-* ✨ Chức năng 1: Mô tả ngắn gọn chức năng
-* 🔧 Chức năng 2: Mô tả ngắn gọn chức năng
-* 📊 Chức năng 3: Mô tả ngắn gọn chức năng
-* 🔐 Xác thực / phân quyền (nếu có)
+- ✨ Chức năng 1: Mô tả ngắn gọn chức năng
+- 🔧 Chức năng 2: Mô tả ngắn gọn chức năng
+- 📊 Chức năng 3: Mô tả ngắn gọn chức năng
+- 🔐 Xác thực / phân quyền (nếu có)
 
 ## Công nghệ sử dụng
 
-* **Frontend:** React / Vite / Tailwind CSS
-* **Backend:** Node.js / Express / Laravel (tuỳ dự án)
-* **Database:** MongoDB / MySQL / PostgreSQL
-* **Khác:** JWT, REST API, Redux, Socket.io...
+- **Frontend:** React / Vite / Tailwind CSS
+- **Backend:** Node.js / Express / Laravel (tuỳ dự án)
+- **Database:** MongoDB / MySQL / PostgreSQL
+- **Khác:** JWT, REST API, Redux, Socket.io...
 
 ## Cài đặt & Chạy dự án
 
 ### Yêu cầu hệ thống
 
-* Node.js >= 16
-* npm hoặc yarn
-* Git
+- Node.js >= 16
+- npm hoặc yarn
+- Git
 
 ### Cài đặt
 
@@ -62,9 +62,9 @@ npm run dev
 
 ## Cách sử dụng
 
-* Truy cập ứng dụng tại: `http://localhost:5000`
-* Đăng ký / đăng nhập tài khoản
-* Sử dụng các chức năng chính của hệ thống
+- Truy cập ứng dụng tại: `http://localhost:5000`
+- Đăng ký / đăng nhập tài khoản
+- Sử dụng các chức năng chính của hệ thống
 
 ## Cấu trúc thư mục
 
@@ -80,10 +80,14 @@ src/
 
 ## Định hướng phát triển
 
-* [ ] Thêm dashboard thống kê
-* [ ] Tối ưu UI/UX
-* [ ] Viết test tự động
-* [ ] Deploy lên server
+- [ ] Thêm dashboard thống kê
+- [ ] Tối ưu UI/UX
+- [ ] Viết test tự động
+- [ ] Deploy lên server
+- [ ] Thêm dashboard thống kê
+- [ ] Tối ưu UI/UX
+- [ ] Viết test tự động
+- [ ] Deploy lên server
 
 ## Đóng góp
 
@@ -97,7 +101,7 @@ Mọi đóng góp đều được hoan nghênh ❤️
 
 ## Tác giả
 
-* **Tên bạn** – Developer
+- **Tên bạn** – Developer
 
 ## License
 
