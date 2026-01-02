@@ -102,7 +102,7 @@ body {
 }
 
 .team-list {
-    display: flex;
+    display: grid;
     gap: 30px;
     justify-content: center;
 }
